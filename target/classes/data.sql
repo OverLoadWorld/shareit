@@ -1,0 +1,1 @@
+INSERT INTO `sys_config` VALUES ('AAA','BBB','20190305235959','DDD');
